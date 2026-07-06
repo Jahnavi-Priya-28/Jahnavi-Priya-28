@@ -31,8 +31,8 @@ Web development, full-stack roadmap, Node.js, Express.js.
 <br>
 
 <!-- STATS -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kautilyaFSD15&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kautilyaFSD15&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-Priya-28&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahnavi-Priya-28&theme=tokyonight" />
 
 <br>
 
@@ -47,7 +47,7 @@ Web development, full-stack roadmap, Node.js, Express.js.
 <br>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kautilyaFSD15&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahnavi-Priya-28&theme=react-dark" />
 
 <br>
 
@@ -62,7 +62,7 @@ Web development, full-stack roadmap, Node.js, Express.js.
 <br>
 
 <!-- VISITOR -->
-<img src="https://komarev.com/ghpvc/?username=kautilyaFSD15&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Jahnavi-Priya-28&style=for-the-badge&color=blue" />
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
@@ -107,12 +107,12 @@ Tools & Design
 ---
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kautilyaFSD15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kautilyaFSD15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Jahnavi-Priya-28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jahnavi-Priya-28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyaFSD15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kautilyaFSD15&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jahnavi-Priya-28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
