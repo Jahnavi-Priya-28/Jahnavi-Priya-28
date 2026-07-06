@@ -42,7 +42,7 @@ Web development, full-stack roadmap, Node.js, Express.js.
 <br>
 
 <!-- SKILLS -->
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tensorflow,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=Java,python,js,react,nodejs,html,css,tensorflow,git,github&theme=dark" />
 
 <br>
 
