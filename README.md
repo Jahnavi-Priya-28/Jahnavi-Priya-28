@@ -19,7 +19,7 @@ Web development, full-stack roadmap, Node.js, Express.js.
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jahnavi-priya-2ab194286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-priya-2ab194286/)
 <div align="center">
 
 <!-- HEADER -->
