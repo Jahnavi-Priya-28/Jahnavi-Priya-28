@@ -110,7 +110,7 @@ Feb 2026
 
 **Pranveer Singh Institute of Technology (PSIT), Kanpur**  
 B.Tech in Information Technology, 2023 - 2027  
-CGPA: 7.78/10
+CGPA: 8/10
 
 **Academic Global School**  
 Senior Secondary, 2023  
